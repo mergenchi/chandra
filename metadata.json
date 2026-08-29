@@ -1,0 +1,7 @@
+{
+  "name": "Chandra Torrefiel | English Tutor",
+  "description": "Official 1-on-1 English tutoring website for Chandra Torrefiel. Interactive calendar booking, verified reviews, level placement test, and lesson packages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
